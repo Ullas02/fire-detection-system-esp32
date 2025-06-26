@@ -56,18 +56,14 @@ A smart fire detection system built with an ESP32 microcontroller that uses an I
 
 ---
 
-![image](https://github.com/user-attachments/assets/0e9ae28c-9ff0-4ece-83da-4bb8ea3d6a40)
-
-![Uploading image.png…]()
-![Uploading image.png…]()
-![Uploading image.png…]()
-
 🧠 Future Improvements
 Add temperature or smoke sensor for better accuracy
 
 Enable auto-fire extinguishing system
 
 Integrate with voice assistant or home automation
+
+---
 
 🙋‍♂️ Authors
 Ullas and team
