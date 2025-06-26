@@ -25,9 +25,9 @@ A smart fire detection system built with an ESP32 microcontroller that uses an I
 | Internet/Wi-Fi   | Required |
 
 
-📷
-
 ---
+
+📷
 
 ![image](https://github.com/user-attachments/assets/0e9ae28c-9ff0-4ece-83da-4bb8ea3d6a40)
 
